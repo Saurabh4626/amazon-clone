@@ -44,4 +44,4 @@ function Checkout() {
         </div>
     )}
 
-export default Checkout
+export default Checkout 
